@@ -14,7 +14,7 @@ public class InverterUmaString {
             return "";
         }
 
-        return texto = inverterString(texto.substring(1)) + texto.charAt(0);
+        return  inverterString(texto.substring(1)) + texto.charAt(0);
     }
 
 }
